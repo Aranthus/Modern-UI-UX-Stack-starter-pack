@@ -1,4 +1,4 @@
-# Liquidty - Vite React TypeScript Starter Template
+# Vite React TypeScript Starter Template
 
 A modern, feature-rich starter template for React projects with TypeScript, Tailwind CSS, and shadcn/ui components. This template provides a solid foundation for building beautiful, responsive web applications with the latest front-end technologies.
 
